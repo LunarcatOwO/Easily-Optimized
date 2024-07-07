@@ -1,3 +1,5 @@
+## This github repo is a Bug tracker for the following modpack
+
 # Easily-Optimized
 A simple Modpack that focuses on performance and graphics enhancements!
 
